@@ -1,19 +1,3 @@
-# Project
-
-# try:
-#     import speech_recognition as sr
-#     import pyttsx3
-#     import wikipedia
-#     import requests
-#     from PIL import Image
-#     import pandas as pd
-#     import numpy as np
-#     from sklearn import linear_model
-#     import matplotlib.pyplot as plt
-# except ImportError as e:
-#     print(f"Error importing modules: {e}")
-
-
 import speech_recognition as sr
 import datetime
 import wikipedia
